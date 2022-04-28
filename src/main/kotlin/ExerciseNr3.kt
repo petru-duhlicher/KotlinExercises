@@ -1,4 +1,4 @@
-/*
+/* Branch range
 Given two ranges, implement a function that checks if range1 contains range2.
 	Examples:
 	containsRange(5..7, 5..7) // true
