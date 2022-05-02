@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="96362024-b342-4a88-a55a-10818af07b19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_6_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consoleApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr16.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr19.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr20.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr21.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr22.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr23.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr24.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr25.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr10Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr11Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr12Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr13Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr14Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr15Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr16Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr18Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr1Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr20Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr21Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr22Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr24Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr25Kt$hasRepeatedCharacter$$inlined$groupingBy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr25Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr26Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr3Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr4Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr6Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr7Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr8Kt$formatTrainRoute$followingStations$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr8Kt$formatTrainRoute$lastStation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr8Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ExerciseNr9Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/consoleApp.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ExerciseNr1.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="289V8KAtqgE4UfF5s7P3L528rBh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/pduhlicher/IdeaProjects/KotlinExercises",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.ExerciseNr1Kt">
+    <configuration name="ExerciseNr12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseNr12Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseNr13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseNr13Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseNr15Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseNr15Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseNr16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseNr16Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseNr1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseNr1Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ExerciseNr1Kt" />
+        <item itemvalue="Kotlin.ExerciseNr13Kt" />
+        <item itemvalue="Kotlin.ExerciseNr12Kt" />
+        <item itemvalue="Kotlin.ExerciseNr16Kt" />
+        <item itemvalue="Kotlin.ExerciseNr15Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96362024-b342-4a88-a55a-10818af07b19" name="Changes" comment="" />
+      <created>1650628683516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650628683516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
