@@ -9,13 +9,18 @@ capitalizeSentence("this is a house") // This Is A House
 */
 
 
-// uncomment following code for a simple run of the function
+ //uncomment following code for a simple run of the function
 //fun main(args: Array<String>){
 //
-//    println(s.capitalizeWords())
+//    println(capitalizeSentence("this is a house"))
 //}
 
-fun String.capitalizeWords(): String = split(" ").map { it.capitalize() }.joinToString(" ")
-var s: String = "this is a house"
+//fun String.capitalizeWords(): String = split(" ").map { it.capitalize() }.joinToString(" ")
+//var s: String = "this is a house"
 
 
+fun capitalizeSentence(str: String?): String? {
+     return if (str == null || str.isEmpty()) {
+        str
+    } else  return str.substring(0, 1).uppercase() + str.substring(1)
+}
