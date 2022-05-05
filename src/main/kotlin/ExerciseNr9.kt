@@ -5,9 +5,9 @@ getAllPairs(1) [Pair(0, 0), Pair(0, 1), Pair(1, 0), Pair(1, 1)]
 getAllPairs(2) [Pair(0, 0), Pair(0, 1), Pair(0, 2), Pair(1, 0), Pair(1, 1), Pair(1, 2), Pair(2, 0), Pair(2, 1), Pair(2, 2)]
 
 */
-//fun main(args: Array<String>){
-//    println(getAllPairs(1))
-//}
+fun main(args: Array<String>){
+    println(getAllPairs(1))
+}
 fun getAllPairs(n: Int): List<Pair<Int, Int>> {
     val result = mutableListOf<Pair<Int, Int>>()
 
@@ -16,6 +16,5 @@ fun getAllPairs(n: Int): List<Pair<Int, Int>> {
             result.add(i to j)
         }
     }
-
     return result
 }
