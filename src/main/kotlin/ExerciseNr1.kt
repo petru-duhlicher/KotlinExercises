@@ -14,7 +14,11 @@ capitalizeSentence("this is a house") // This Is A House
 //
 //    println(capitalizeSentence("this is a house"))
 //}
+
 // run this
+
+// uncomment to run the
+
 //fun String.capitalizeWords(): String = split(" ").map { it.capitalize() }.joinToString(" ")
 //var s: String = "this is a house"
 
