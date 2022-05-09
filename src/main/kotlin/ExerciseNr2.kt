@@ -14,15 +14,16 @@ getOdd(listOf(4, 6, 8, 7, 9)) // 7, 9
 
 
 
-fun getOdd(list: List<Int>): List<Int> {
-
-    if (list.isEmpty()) {
-        return list
-    }
-
-    return if (list.first() % 2 == 1) {
-        mutableListOf(list.first()) + getOdd(list.drop(1))
-    } else {
-        getOdd(list.drop(1))
-    }
-}
+//fun getOdd(list: List<Int>): List<Int> {
+//
+//    if (list.isEmpty()) {
+//        return list
+//    }
+//
+//    return if (list.first() % 2 == 1) {
+//        mutableListOf(list.first()) + getOdd(list.drop(1))
+//    } else {
+//        getOdd(list.drop(1))
+//    }
+//}
+fun getOdd(list: List<Int>): List<Int> = list.filter { it % 2 == 1 }
