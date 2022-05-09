@@ -9,7 +9,17 @@ countUniqueValues([-2, -1, -1, 0, 1]) // 4
 
 fun main(){
 
-   println(countUniqueValues(listOf(1, 1, 6)))
+   println(countUniqueValues(listOf(-2, -1, -1, 0, 1)))
 }
 
-fun countUniqueValues(list: List<Int>): Int = list.distinct().size
+//fun countUniqueValues(list: List<Int>): Int = list.distinct().size
+
+fun countUniqueValues(values: List<Int>): Int {
+   val list: MutableList<Int> = arrayListOf()
+   for (element in values) {
+      if (!list.contains(element)){
+         list.add(element)
+      }
+   }
+   return list.size
+}
