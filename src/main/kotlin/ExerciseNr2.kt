@@ -26,4 +26,6 @@ getOdd(listOf(4, 6, 8, 7, 9)) // 7, 9
 //        getOdd(list.drop(1))
 //    }
 //}
+
+// filter method
 fun getOdd(list: List<Int>): List<Int> = list.filter { it % 2 == 1 }
