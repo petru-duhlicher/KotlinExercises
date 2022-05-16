@@ -7,17 +7,13 @@ product(listOf(1, 2, 4)) // 8
 product(listOf(2, 4, 10)) // 80
 */
 
-//fun main(){
-//    println(product(listOf(2, 4, 10)))
-//}
+fun main(){
+    println(product(listOf(2, 4, 10)))
+}
 
 
 fun product(list: List<Int>): Int {
 
     return list.reduce { acc, i -> acc * i }
-//    if (list.size == 1) {
-//        return list.first()
-//    }
-//
-//    return list.first() * product(list.drop(1))
+
 }
