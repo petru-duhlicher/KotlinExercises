@@ -12,7 +12,7 @@ fun main(){
    println(countUniqueValues(listOf(-2, -1, -1, 0, 1)))
 }
 
-//fun countUniqueValues(list: List<Int>): Int = list.distinct().size
+
 
 fun countUniqueValues(values: List<Int>): Int {
    val list: MutableList<Int> = arrayListOf()
