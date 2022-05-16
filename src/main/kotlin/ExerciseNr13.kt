@@ -10,9 +10,9 @@ factorial(2) // 2
 factorial(3) // 6
 */
 
-//fun main(){
-//    println(factorial(0))
-//}
+fun main(){
+    println(factorial(0))
+}
 
 fun factorial(n: Int): Int =
     when (n) {
@@ -20,14 +20,3 @@ fun factorial(n: Int): Int =
         else -> n * factorial(n - 1)
     }
 
-
-
-
-
-//    var total = 1
-//
-//    (1..n).forEach {
-//        total *= it
-//    }
-//
-//    return total
